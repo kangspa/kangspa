@@ -1,7 +1,7 @@
 # DATA & AI & Full-Stack
 <!-- https://happybplus.tistory.com/913 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&theme=gruvbox&section=header&text=DATA%20AI%20Full-Stack&desc=kangspa&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&theme=gruvbox&height=300&section=header&text=DATA%20AI%20Full-Stack&desc=kangspa&rotate=20)
 
 <!--
 **kangspa/kangspa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
