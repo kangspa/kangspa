@@ -1,5 +1,5 @@
 <!-- https://happybplus.tistory.com/913 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=DATA／AI／Full-Stack&fontAlign=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=DATA／AI／Full-Stack&fontAlign=60)
 
 
 
