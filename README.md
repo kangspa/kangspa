@@ -3,7 +3,7 @@
 
 <p>
   <!-- Contact -->
-  <img src="https://img.shields.io/badge/kangspa98@naver.com-03C75A?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mail:kangspa98@naver.com"><img src="https://img.shields.io/badge/kangspa98@naver.com-03C75A?style=flat-square&logo=gmail&logoColor=white"/></a>
   <!-- Velog -->
   <a href="https://velog.io/@kangspa/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
   <!-- Notion -->
