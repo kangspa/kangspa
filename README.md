@@ -12,7 +12,9 @@
 
 <hr>
 
-<h3>Data / AI</h3>
+<h2>Tech Stack</h2>
+
+<h3>📊 Data / AI</h3>
 <p>
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -36,7 +38,7 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
 </p>
 
-<h3>Full-Stack</h3>
+<h3>💻 Full-Stack</h3>
 <p>
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -60,7 +62,7 @@
   
 </p>
 
-<h3>Others</h3>
+<h3>🤝 Others</h3>
 <p>
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
@@ -82,6 +84,13 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 </p>
 
+<hr>
+
+<!-- 사용한 언어 순위 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangspa&layout=compact&theme=radical)
+
+<!-- GitHub Stats Card -->
+[![kangspa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangspa&show_icons=true&theme=tokyonight)](https://github.com/kangspa/github-readme-stats)
 
 <!--
 **kangspa/kangspa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
