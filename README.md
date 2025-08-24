@@ -1,6 +1,8 @@
 <!-- https://happybplus.tistory.com/913 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=DATA／AI／Full-Stack&fontAlign=75&fontSize=40&fontColor=050247)
 
+![Static Badge](https://img.shields.io/badge/Velog-c7ffee?style=flat&logo=velog&logoColor=20C997&link=https%3A%2F%2Fvelog.io%2F%40kangspa)
+
 <img alt="Static Badge" src="https://img.shields.io/badge/Velog-c7ffee?style=flat&logo=velog&logoColor=20C997&link=https%3A%2F%2Fvelog.io%2F%40kangspa">
 
 
