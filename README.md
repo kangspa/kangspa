@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/>
   <!-- Ollama -->
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
+  <!-- Selenium -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
 </p>
 
 <h3>💻 Full-Stack</h3>
