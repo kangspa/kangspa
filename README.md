@@ -7,7 +7,7 @@
   <!-- Velog -->
   <a href="https://velog.io/@kangspa/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
   <!-- Notion -->
-  <a href=""><img src="https://img.shields.io/badge/PM%20Blog-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://elish-bj.notion.site/PM-Portfolio-eab5847f6bad450998b37635829e7e1f"><img src="https://img.shields.io/badge/PM%20Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 
 <hr>
