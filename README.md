@@ -1,8 +1,14 @@
 <!-- https://happybplus.tistory.com/913 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=DATA／AI／Full-Stack&fontAlign=75&fontSize=40&fontColor=050247)
 
-<object alt="Static Badge" src="https://img.shields.io/badge/Velog-c7ffee?style=flat&logo=velog&logoColor=20C997&link=https%3A%2F%2Fvelog.io%2F%40kangspa"></object>
-
+<p>
+  <!-- Contact -->
+  <img src="https://img.shields.io/badge/kangspa98@naver.com-03C75A?style=flat-square&logo=네이버&logoColor=white"/>
+  <!-- Velog -->
+  <a href="https://velog.io/@kangspa/posts"><img src="https://img.shields.io/badge/Velog-Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+  <!-- Notion -->
+  <a href=""><img src="https://img.shields.io/badge/Notion-PM%20Blog-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+</p>
 
 <!--
 **kangspa/kangspa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
