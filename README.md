@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
   <!-- Pandas -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <!-- Scikit-Learn -->
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
   <!-- PyTorch -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <!-- Keras -->
