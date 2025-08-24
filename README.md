@@ -1,7 +1,7 @@
 <!-- https://happybplus.tistory.com/913 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&text=DATA／AI／Full-Stack&fontAlign=75&fontSize=40&fontColor=050247)
 
-<img src="https://img.shields.io/badge/-Velog-7dffd8?style=flat&logo=velog&logoColor=20C997"/>
+<img src="https://img.shields.io/badge/-Velog-c7ffee?style=flat&logo=velog&logoColor=20C997"/>
 
 <!--
 **kangspa/kangspa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
