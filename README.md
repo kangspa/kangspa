@@ -10,6 +10,9 @@
   <a href=""><img src="https://img.shields.io/badge/Dev%20Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <!-- Notion -->
   <a href=""><img src="https://img.shields.io/badge/PM%20Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+</a>
+  <!-- CodingTest -->
+  <a href="https://kangspa.github.io/"><img src="https://img.shields.io/badge/CodingTestRepository-#CC0000?style=flat-square&logo=jekyll&logoColor=white"/></a>
 </p>
 
 <hr>
