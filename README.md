@@ -6,10 +6,10 @@
   <a href="mailto:kangspa98@naver.com"><img src="https://img.shields.io/badge/kangspa98@naver.com-03C75A?style=flat-square&logo=gmail&logoColor=white"/></a>
   <!-- Velog -->
   <a href="https://velog.io/@kangspa/posts"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
-  <!-- Notion -->
-  <a href=""><img src="https://img.shields.io/badge/Dev%20Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <!-- Notion -->
-  <a href=""><img src="https://img.shields.io/badge/PM%20Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <!-- Notion 
+  <a href=""><img src="https://img.shields.io/badge/Dev%20Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
+  <!-- Notion 
+  <a href=""><img src="https://img.shields.io/badge/PM%20Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
 </a>
   <!-- CodingTest -->
   <a href="https://kangspa.github.io/"><img src="https://img.shields.io/badge/CodingTest%20Solution-CC0000?style=flat-square&logo=jekyll&logoColor=white"/></a>
